@@ -1,5 +1,7 @@
 package com.example.lenovo.rainweather.gson;
 
+import com.google.gson.annotations.SerializedName;
+
 import java.util.List;
 
 /**

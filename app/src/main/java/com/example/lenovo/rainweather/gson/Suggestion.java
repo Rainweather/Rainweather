@@ -1,5 +1,7 @@
 package com.example.lenovo.rainweather.gson;
 
+import com.google.gson.annotations.SerializedName;
+
 /**
  * Created by lenovo on 2018/12/18.
  */
